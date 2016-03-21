@@ -1,0 +1,39 @@
+c:\users\grzegorz\documents\visual studio 2015\Projects\DXTest\DXTest\obj\Debug\DXTest.Properties.Resources.resources
+c:\users\grzegorz\documents\visual studio 2015\Projects\DXTest\DXTest\obj\Debug\DXTest.csproj.GenerateResource.Cache
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\DXTest.exe.config
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\obj\Debug\DXTest.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\DXTest.exe
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\DXTest.pdb
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\obj\Debug\DXTest.exe
+C:\Users\Grzegorz\Documents\Visual Studio 2015\Projects\DXTest\DXTest\obj\Debug\DXTest.pdb
+D:\DirectX\DXTest\DXTest\bin\Debug\DXTest.exe.config
+D:\DirectX\DXTest\DXTest\obj\Debug\DXTest.exe
+D:\DirectX\DXTest\DXTest\obj\Debug\DXTest.pdb
+D:\DirectX\DXTest\DXTest\bin\Debug\DXTest.exe
+D:\DirectX\DXTest\DXTest\bin\Debug\DXTest.pdb
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\DirectX\DXTest\DXTest\obj\Debug\DXTest.csprojResolveAssemblyReference.cache
+D:\DirectX\DXTest\DXTest\obj\Debug\DXTest.Properties.Resources.resources
+D:\DirectX\DXTest\DXTest\obj\Debug\DXTest.csproj.GenerateResource.Cache
+D:\DirectX\DXTest\DXTest\obj\Debug\DXTest.Form1.resources
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+D:\DirectX\DXTest\DXTest\bin\Debug\Microsoft.DirectX.DirectSound.xml

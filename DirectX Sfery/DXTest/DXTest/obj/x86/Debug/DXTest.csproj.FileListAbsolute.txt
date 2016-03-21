@@ -1,0 +1,114 @@
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.Properties.Resources.resources
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.exe
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.pdb
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.exe
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.pdb
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.Properties.Resources.resources
+C:\Users\lords\Desktop\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.exe
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.pdb
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.Properties.Resources.resources
+C:\Users\lords\Desktop\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.exe
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.pdb
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.Properties.Resources.resources
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Sfery\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Sfery\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
