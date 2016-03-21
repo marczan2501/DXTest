@@ -1,0 +1,108 @@
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.exe.config
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.Properties.Resources.resources
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.exe
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\DXTest.pdb
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+D:\DirectX\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.exe
+D:\DirectX\DXTest\DXTest\obj\x86\Debug\DXTest.pdb
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.exe.config
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.exe
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.pdb
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.Properties.Resources.resources
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.exe
+C:\Users\Lukasz-Laptop\Desktop\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.pdb
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.exe.config
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.exe
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.pdb
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.exe
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.pdb
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.Properties.Resources.resources
+E:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.exe.config
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.exe
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.pdb
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.exe
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\TrzyCieniowania.pdb
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.dll
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Diagnostics.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectDraw.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectPlay.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\DXTest.csprojResolveAssemblyReference.cache
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\DXTest.Form1.resources
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\TrzyCieniowania.Properties.Resources.resources
+F:\OneDrive\Uczelnia\Interaktywna Grafika Komputerowa\DirectX Trzy Cieniowania\DXTest\DXTest\obj\x86\Debug\DXTest.csproj.GenerateResource.Cache
