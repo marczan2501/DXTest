@@ -1,0 +1,54 @@
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Kwadrat+tex.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Marek\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Kwadrat+tex.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\obj\x86\Debug\Kwadrat+tex.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Marek\Desktop\!Programy Zebrane\DirectX Kwadrat\WindowsFormsApplication3\obj\x86\Debug\Kwadrat+tex.csproj.GenerateResource.Cache
